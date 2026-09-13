@@ -1,5 +1,6 @@
 {
   "name": "altiryn-interactive-technical-thesis",
+  "version": "1.0.0",
   "private": true,
   "sideEffects": false,
   "type": "module",
@@ -8,6 +9,7 @@
     "build": "node node_modules/vite/bin/vite.js build",
     "build:dev": "node node_modules/vite/bin/vite.js build --mode development",
     "preview": "node node_modules/vite/bin/vite.js preview",
+    "start": "node .output/server/index.mjs",
     "lint": "eslint .",
     "format": "prettier --write ."
   },
@@ -16,6 +18,7 @@
   },
   "dependencies": {
     "@hookform/resolvers": "^5.2.2",
+
     "@radix-ui/react-accordion": "^1.2.12",
     "@radix-ui/react-alert-dialog": "^1.1.15",
     "@radix-ui/react-aspect-ratio": "^1.1.8",
@@ -24,7 +27,7 @@
     "@radix-ui/react-collapsible": "^1.1.12",
     "@radix-ui/react-context-menu": "^2.2.16",
     "@radix-ui/react-dialog": "^1.1.15",
-    "@radix-ui/react-dropdown-menu": "^2.2.16",
+    "@radix-ui/react-dropdown-menu": "^2.1.16",
     "@radix-ui/react-hover-card": "^1.1.15",
     "@radix-ui/react-label": "^2.1.8",
     "@radix-ui/react-menubar": "^1.1.16",
@@ -100,7 +103,6 @@
     "prettier": "^3.7.3",
     "typescript": "^5.8.3",
     "typescript-eslint": "^8.56.1",
-
     "vite": "8.1.5"
   }
 }
