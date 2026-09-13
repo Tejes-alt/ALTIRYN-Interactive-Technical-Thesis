@@ -1,11 +1,11 @@
 {
-  "compatibility_date": "2026-09-13",
+  "compatibility_date": "2026-09-14",
   "main": "index.mjs",
   "assets": {
     "binding": "ASSETS",
-    "directory": "../public"
+    "directory": "..\\public"
   },
-  "name": "tanstack-start-ts",
+  "name": "tejes-alt-altiryn-interactive-technical-thesis",
   "compatibility_flags": [
     "nodejs_compat"
   ],

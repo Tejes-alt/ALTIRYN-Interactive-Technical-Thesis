@@ -16,82 +16,82 @@ globalThis.__nitro_vite_envs__ = services;
 //#endregion
 //#region #nitro/virtual/public-assets-data
 var public_assets_data_default = {
-	"/favicon.ico": {
-		"type": "image/vnd.microsoft.icon",
-		"etag": "\"4f95-3RXc3p2mhEAs1WBwaIvE0Y0uu0Y\"",
-		"mtime": "2026-09-13T17:29:53.103Z",
-		"size": 20373,
-		"path": "../public/favicon.ico"
+	"/assets/lenis-SLnaB0gZ.js": {
+		"type": "text/javascript; charset=utf-8",
+		"etag": "\"48b0-vtmGOlY8qB8NAJihFo64fm7YOR4\"",
+		"mtime": "2026-09-13T18:42:26.336Z",
+		"size": 18608,
+		"path": "../public/assets/lenis-SLnaB0gZ.js"
 	},
 	"/robots.txt": {
 		"type": "text/plain; charset=utf-8",
 		"etag": "\"a0-CKGXSIe7TSsqDTmGm/nY1t/o5d0\"",
-		"mtime": "2026-09-13T17:29:53.104Z",
+		"mtime": "1979-12-31T00:00:00.000Z",
 		"size": 160,
 		"path": "../public/robots.txt"
 	},
-	"/assets/index-C-WZae26.js": {
+	"/assets/index-BB2fG-Mq.js": {
 		"type": "text/javascript; charset=utf-8",
-		"etag": "\"5c449-bCHxiQN1kG0AlCorgsP+czsc0rA\"",
-		"mtime": "2026-09-13T17:29:52.499Z",
-		"size": 377929,
-		"path": "../public/assets/index-C-WZae26.js"
-	},
-	"/assets/lenis-SLnaB0gZ.js": {
-		"type": "text/javascript; charset=utf-8",
-		"etag": "\"48b0-vtmGOlY8qB8NAJihFo64fm7YOR4\"",
-		"mtime": "2026-09-13T17:29:52.503Z",
-		"size": 18608,
-		"path": "../public/assets/lenis-SLnaB0gZ.js"
+		"etag": "\"55195-DARPwltDJ+tiYfuURrCUSFZvFRc\"",
+		"mtime": "2026-09-13T18:42:26.336Z",
+		"size": 348565,
+		"path": "../public/assets/index-BB2fG-Mq.js"
 	},
 	"/assets/styles-DHzw5OwQ.css": {
 		"type": "text/css; charset=utf-8",
 		"etag": "\"17df8-UoLVeIZ4sKPMND96cbtaDGn8jBo\"",
-		"mtime": "2026-09-13T17:29:52.504Z",
+		"mtime": "2026-09-13T18:42:26.336Z",
 		"size": 97784,
 		"path": "../public/assets/styles-DHzw5OwQ.css"
 	},
 	"/textures/earth-clouds.png": {
 		"type": "image/png",
 		"etag": "\"37341-jzo2c8FARrgj91q11kW45LWqDKA\"",
-		"mtime": "2026-09-13T17:29:53.097Z",
+		"mtime": "1979-12-31T00:00:00.000Z",
 		"size": 226113,
 		"path": "../public/textures/earth-clouds.png"
-	},
-	"/textures/earth-day.jpg": {
-		"type": "image/jpeg",
-		"etag": "\"7d25e-qEU3llT/YevlCg46iv+XgQmRPN8\"",
-		"mtime": "2026-09-13T17:29:53.098Z",
-		"size": 512606,
-		"path": "../public/textures/earth-day.jpg"
-	},
-	"/textures/earth-lights.png": {
-		"type": "image/png",
-		"etag": "\"64230-dVPdYNhU9UjuUn0KSk2lbccim60\"",
-		"mtime": "2026-09-13T17:29:53.099Z",
-		"size": 410160,
-		"path": "../public/textures/earth-lights.png"
 	},
 	"/textures/earth-normal.jpg": {
 		"type": "image/jpeg",
 		"etag": "\"52386-zQWo7zeppu3xhGj+vD+GEb18LZ4\"",
-		"mtime": "2026-09-13T17:29:53.101Z",
+		"mtime": "1979-12-31T00:00:00.000Z",
 		"size": 336774,
 		"path": "../public/textures/earth-normal.jpg"
 	},
 	"/textures/earth-specular.jpg": {
 		"type": "image/jpeg",
 		"etag": "\"368bd-rHO/gfoyCZ+KW2MSBw4qwrRP2h0\"",
-		"mtime": "2026-09-13T17:29:53.103Z",
+		"mtime": "1979-12-31T00:00:00.000Z",
 		"size": 223421,
 		"path": "../public/textures/earth-specular.jpg"
 	},
-	"/assets/routes-CXGl9Fbp.js": {
+	"/textures/earth-day.jpg": {
+		"type": "image/jpeg",
+		"etag": "\"7d25e-qEU3llT/YevlCg46iv+XgQmRPN8\"",
+		"mtime": "1979-12-31T00:00:00.000Z",
+		"size": 512606,
+		"path": "../public/textures/earth-day.jpg"
+	},
+	"/textures/earth-lights.png": {
+		"type": "image/png",
+		"etag": "\"64230-dVPdYNhU9UjuUn0KSk2lbccim60\"",
+		"mtime": "1979-12-31T00:00:00.000Z",
+		"size": 410160,
+		"path": "../public/textures/earth-lights.png"
+	},
+	"/Altiryn_Logo.png": {
+		"type": "image/png",
+		"etag": "\"1464e6-nmkIdrrn/lf/5iFQaeoF9CbdlyM\"",
+		"mtime": "2026-09-13T17:43:09.330Z",
+		"size": 1336550,
+		"path": "../public/Altiryn_Logo.png"
+	},
+	"/assets/routes-8jQqPzis.js": {
 		"type": "text/javascript; charset=utf-8",
-		"etag": "\"130531-qZ/HZTgcoj82tlUW++4Ma+RwhRU\"",
-		"mtime": "2026-09-13T17:29:52.504Z",
-		"size": 1246513,
-		"path": "../public/assets/routes-CXGl9Fbp.js"
+		"etag": "\"12f78f-nvtyXRKGW9hUiUhRcLPXb+UwHmw\"",
+		"mtime": "2026-09-13T18:42:26.336Z",
+		"size": 1243023,
+		"path": "../public/assets/routes-8jQqPzis.js"
 	}
 };
 //#endregion
@@ -129,11 +129,11 @@ var findRouteRules = /* @__PURE__ */ (() => {
 		return r;
 	};
 })();
-var _lazy_GWtdmC = defineLazyEventHandler(() => import("./_chunks/ssr-renderer.mjs"));
+var _lazy_wKER6T = defineLazyEventHandler(() => import("./_chunks/ssr-renderer.mjs"));
 var findRoute = /* @__PURE__ */ (() => {
 	const data = {
 		route: "/**",
-		handler: _lazy_GWtdmC
+		handler: _lazy_wKER6T
 	};
 	return ((_m, p) => {
 		return {

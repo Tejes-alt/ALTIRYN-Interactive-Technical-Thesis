@@ -1,0 +1,8 @@
+(
+echo node_modules/
+echo .output/
+echo .wrangler/
+echo *.zip
+echo .env
+echo .env.*
+) > .gitignore
